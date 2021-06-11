@@ -10,3 +10,5 @@ Task Description 📄
 
 🔅 Task 4.3
 📌 Take 2 image and combine it to form single image. For example collage 
+
+Practical Demonstration: https://www.linkedin.com/posts/suraj-warbhe_vimaldaga-righteducation-educationredefine-activity-6806912212947599360-dmgN
